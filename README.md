@@ -8,4 +8,4 @@
 ![diagram](https://github.com/codekingjj/ZombieGame/blob/master/images/%EC%A2%80%EB%B9%84%EA%B2%8C%EC%9E%84%20ClassDiagram.jpg)
 
 > Demo
-![diagram]()
+![diagram](https://github.com/codekingjj/ZombieGame/blob/master/images/workspace-Eclipse-IDE-2024-03-27-14-32-50.gif)

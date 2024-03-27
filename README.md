@@ -5,7 +5,7 @@
 나만의 영웅을 설정을 하여 좀비와 보스를 각각 물리치고 공주를 구하는 게임
 
 > Class Diagram (UML)
-![diagram]()
+![diagram](https://github.com/codekingjj/ZombieGame/blob/master/images/%EC%A2%80%EB%B9%84%EA%B2%8C%EC%9E%84%20ClassDiagram.jpg)
 
 > Demo
 ![diagram]()
